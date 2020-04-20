@@ -1,0 +1,11 @@
+name: cc
+channels:
+    - defaults
+    - sebp
+dependencies:
+    - lifelines
+    - scikit-survival
+    - pysurvival
+    - notebook
+    - jupyter
+prefix: /Users/cami_/Miniconda3/envs/cc
