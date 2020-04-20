@@ -22,7 +22,7 @@ After you have installed GCC the easiest way to install pysurvival is using pip
 pip install pysurvival
 ```
 
-For installation on Window you can download the files directl from: https://github.com/bacalfa/pysurvival
+For installation on Window you can download the files directly from: https://github.com/bacalfa/pysurvival
 
 First build the package
 
