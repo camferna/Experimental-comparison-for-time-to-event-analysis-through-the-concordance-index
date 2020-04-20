@@ -18,9 +18,9 @@ The recommended C++ compiler is GCC. For more details on how to install it for M
 
 After you have installed GCC the easiest way to install pysurvival is using pip
 
-'''
+```
 pip install pysurvival
-'''
+```
 
 
 For installation on Window download the files directly from: https://github.com/bacalfa/pysurvival
