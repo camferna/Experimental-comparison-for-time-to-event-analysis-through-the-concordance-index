@@ -14,6 +14,7 @@ Code requirements:
 python setup_random_survival_forest_cython.py build_ext --inplace
 ```
 
+This files were downloaded from George Chen's library: https://github.com/georgehc/npsurvival
 
 ## How to install pysurvival
 This package contains C++ source code, pip needs a C++ compiler to install pysurvival.
