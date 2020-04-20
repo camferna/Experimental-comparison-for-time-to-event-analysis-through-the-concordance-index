@@ -8,7 +8,11 @@ Code requirements:
 
 - Anaconda Python 3.7
 - Additional packages: scikit-survival, pysurvival, lifelines
-- cython compilation
+- cython compilation:
+
+```
+python setup_random_survival_forest_cython.py build_ext --inplace
+```
 
 
 ## How to install pysurvival
