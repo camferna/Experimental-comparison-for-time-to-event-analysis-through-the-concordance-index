@@ -1,7 +1,7 @@
 # Experimental-comparison-for-time-to-event-analysis-through-the-concordance-index
 Experimental comparison of semi-parametric, parametric and machine learning models for time-to-event analysis through the concordance index.
 
-Paper: https://hal.archives-ouvertes.fr/hal-02507132 \\
+Paper: https://hal.archives-ouvertes.fr/hal-02507132 <br />
 Arxiv: https://arxiv.org/pdf/2003.08820.pdf
 
 Code requirements:
@@ -22,6 +22,17 @@ After you have installed GCC the easiest way to install pysurvival is using pip
 pip install pysurvival
 ```
 
+For installation on Window you can download the files directl from: https://github.com/bacalfa/pysurvival
 
-For installation on Window download the files directly from: https://github.com/bacalfa/pysurvival
+First build the package
+
+```
+python setup.py build_ext --inplace
+```
+
+To install the package from the files in your computer
+
+```
+python setup.py install --user
+```
 
