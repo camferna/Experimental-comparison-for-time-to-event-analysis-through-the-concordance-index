@@ -44,4 +44,4 @@ python setup.py install --user
 
 ## Concordance index comparison
 
-We implemented many models to two data sets. The codes of the concordance index comparison for each data set is GBCSG2_Cindex_comparison and PBC_Cindex_comparison.
+We implemented many models to two data sets. The codes of the concordance index comparison for each data set are GBCSG2_Cindex_comparison for the breast cancer recurrence prediction and PBC_Cindex_comparison for the primary biliary chirrosis dead prediction.
